@@ -8,7 +8,7 @@ package com.jrl.learn;
  *      1.包其实就代表文件夹，类代表文件
  *      2.Java只能看到和自己这个类在同一个包下的东西
  *  使用规则：
- *      在不同的包里可以由相同名字的类
+ *      在不同的包里可以有相同名字的类
  *
  */
 public class LearnPackage {
