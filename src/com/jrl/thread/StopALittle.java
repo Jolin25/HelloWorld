@@ -1,6 +1,9 @@
 package com.jrl.thread;
-
-public class StopALittile {
+/**
+* @author jrl
+* @date 2021/4/17
+*/
+public class StopALittle {
     public static void main(String[] args) {
         printSlowly("hello\nworld",300);
     }

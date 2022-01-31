@@ -1,7 +1,10 @@
 package com.jrl.thread;
 
 import java.util.concurrent.TimeUnit;
-
+/**
+* @author jrl
+* @date 2021/4/17
+*/
 public class DaemonThread {
     public static void main(String[] args) {
         Thread daemonThread = new Thread(new Runnable() {
